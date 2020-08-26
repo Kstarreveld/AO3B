@@ -5,6 +5,6 @@
 		<title>AO3B</title>
 	</head>
 	<body>
-		Hallo AO3B
+		Hallo AO3B!
 	</body>
 </html>
