@@ -6,5 +6,7 @@
 	</head>
 	<body>
 		Hallo AO3B!
+		
+		plaatje en tekst
 	</body>
 </html>
